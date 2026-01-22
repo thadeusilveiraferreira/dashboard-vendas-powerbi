@@ -1,2 +1,3 @@
-# dashboard-vendas-powerbi
-Dashboard em Power BI para análise de vendas e indicadores  Marque:
+powerbi-dashboard-vendas
+Dashboard de vendas desenvolvido em Power BI com KPIs e filtros interativos
+
