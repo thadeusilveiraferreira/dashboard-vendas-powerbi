@@ -1,4 +1,6 @@
 # Dashboard de Vendas – Power BI
+![Dashboard de Vendas](print.png)
+
 
 Projeto de dashboard desenvolvido em Power BI para análise de desempenho de vendas,
 com indicadores e visualizações interativas.
